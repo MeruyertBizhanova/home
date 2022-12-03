@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/home1/static/css/main.778eeed7.css",
+    "main.js": "/home1/static/js/main.9ca01c43.js",
+    "static/js/787.4b24f717.chunk.js": "/home1/static/js/787.4b24f717.chunk.js",
+    "static/media/meruyertPhoto.jpg": "/home1/static/media/meruyertPhoto.de797c46dfe080c7813f.jpg",
+    "index.html": "/home1/index.html",
+    "main.778eeed7.css.map": "/home1/static/css/main.778eeed7.css.map",
+    "main.9ca01c43.js.map": "/home1/static/js/main.9ca01c43.js.map",
+    "787.4b24f717.chunk.js.map": "/home1/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778eeed7.css",
+    "static/js/main.9ca01c43.js"
+  ]
+}
